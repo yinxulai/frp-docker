@@ -1,5 +1,7 @@
 # Frp Docker
 
+[中文文档](/README_CN.md)|[English Documentation](/README.md)
+
 ## Usage
 
 ### Server
