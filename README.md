@@ -1,6 +1,6 @@
 # Frp Docker
 
-[中文文档](/README_CN.md)|[English Documentation](/README.md)
+[中文文档](/README_CN.md) | [English Documentation](/README_CN.md)
 
 ## Usage
 
@@ -23,3 +23,7 @@ Please specify your own client configuration file, the default is to use the off
 ```bash
 docker run -d -v {your configuration file}:/etc/frp/frpc.toml yinxulai/frp-client
 ```
+
+### Time Zone
+
+The current default time zone is `Asia/Shanghai`.
